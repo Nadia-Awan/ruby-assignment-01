@@ -1,4 +1,4 @@
-# Assignment 1:
+# Assignment 01:
 
 In today's lesson, we explored a variety of array helper methods in Ruby. Your goal for this assignment is to create a Ruby file and practice implementing these methods.
 
